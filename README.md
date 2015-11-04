@@ -1,4 +1,4 @@
-# csdoc
+﻿# csdoc
 Documents about Installation &amp; Management of CS.
 
 ## 安装
@@ -29,12 +29,19 @@ Management Server Requirements
 ---
 ![pic2][2]
 ---
+![](https://raw.github.com/akinari/csdoc/master/screenshots/ss1.png "新加的图片连接。")
 
 
 ## 配置(UI)
 
+安装XenServer的过程。
+
 
 ### 获取API Key
+
+1. login
+2. move to /path/to/account/manage
+
 
 ### 设置**site**变量 
 
